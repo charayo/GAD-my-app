@@ -17,8 +17,7 @@ class MainActivity : AppCompatActivity() {
         setSupportActionBar(toolbar)
 
 
-        fab.setOnClickListener { view ->
-        }
+        fab.setOnClickListener { view ->}
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
